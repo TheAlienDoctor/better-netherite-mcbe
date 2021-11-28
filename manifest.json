@@ -2,16 +2,16 @@
     "format_version": 2,
     "header": {
         "description": "Makes the Netherite textures look better",
-        "name": "TheAlienDoctor's Improved Netherite (V1.1.2)",
-        "uuid": "780829a3-15a3-4ac9-b8d3-f81b071d5426",
-        "version": [1, 1, 2],
+        "name": "§9TheAlienDoctor's§e Better Netherite §4(V2.0)",
+        "uuid": "f29c3d2a-4985-41f5-b013-a186caafe546",
+        "version": [1, 2, 0],
         "min_engine_version": [ 1, 16, 0 ]
     },
     "modules": [
         {
             "type": "resources",
-            "uuid": "a73b9e33-85b5-48df-b507-8105a74cd76e",
-            "version": [1, 1, 2]
+            "uuid": "c965c333-ae76-430a-9bb9-d20f5b06ae80",
+            "version": [1, 2, 0]
         }
     ]
 }
