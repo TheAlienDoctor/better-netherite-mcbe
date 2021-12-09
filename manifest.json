@@ -1,17 +1,30 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Makes the Netherite textures look better",
-        "name": "§9TheAlienDoctor's§e Better Netherite §4(V2.0)",
-        "uuid": "f29c3d2a-4985-41f5-b013-a186caafe546",
-        "version": [1, 2, 0],
-        "min_engine_version": [ 1, 16, 0 ]
+        "description": "§9Makes Netherite have a more ruby red texture, to try and match the nether more §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.1",
+        "name": "§1Alien's §eBetter Netherite §4(V1.0.0)",
+        "uuid": "b747e39a-fe14-4ca4-9057-3efcf345057e",
+        "version": [
+            1,
+            2,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
     },
     "modules": [
         {
+            "description": "§9Makes Netherite have a more ruby red texture, to try and match the nether more §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.1",
             "type": "resources",
-            "uuid": "c965c333-ae76-430a-9bb9-d20f5b06ae80",
-            "version": [1, 2, 0]
+            "uuid": "36245927-6897-4dd3-bf03-7285eb675910",
+            "version": [
+                1,
+                2,
+                1
+            ]
         }
     ]
 }
