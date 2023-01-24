@@ -1,13 +1,13 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§9Makes Netherite have a more ruby red texture, to try and match the nether more §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.1",
-        "name": "§1Alien's §eBetter Netherite §4(V1.2.1)",
+		"description": "§rGives Netherite a new texture that looks more ruby to match the general colours of the Nether. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.2 §r",
+		"name": "§1§lAlien's§r §eBetter Netherite §4(BP/RP-V1.2.2)§r",
         "uuid": "b747e39a-fe14-4ca4-9057-3efcf345057e",
         "version": [
             1,
             2,
-            1
+            2
         ],
         "min_engine_version": [
             1,
@@ -17,7 +17,7 @@
     },
     "modules": [
         {
-            "description": "§9Makes Netherite have a more ruby red texture, to try and match the nether more §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.1",
+		"description": "§rGives Netherite a new texture that looks more ruby to match the general colours of the Nether. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.2.2 §r",
             "type": "resources",
             "uuid": "36245927-6897-4dd3-bf03-7285eb675910",
             "version": [
@@ -26,5 +26,12 @@
                 1
             ]
         }
-    ]
+    ],
+    "metadata": {
+		"authors": [
+			"TheAlienDoctor"
+		],
+		"license": "BSD 3-Clause License",
+		"url": "https://TheAlienDoctor.com"
+	}
 }
