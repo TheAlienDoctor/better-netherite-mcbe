@@ -15,7 +15,10 @@
     "textures/items/netherite_scrap",
     "textures/items/netherite_shovel",
     "textures/items/netherite_sword",
+    "textures/items/spear/nether_spear",
     //Models
     "textures/models/armor/netherite_1",
-    "textures/models/armor/netherite_2"
+    "textures/models/armor/netherite_2",
+    //entity
+    "textures/entity/spear/netherite_spear"
 ]
